@@ -1,0 +1,18 @@
+#info h2,
+#info h3 {
+    text-align: center;
+    color: #E57905;
+}
+.color-orange{
+    font-weight: bold;
+    color: #E57905;
+}
+
+#info p,
+#info li {
+    text-align: left;
+}
+
+#info li {
+    list-style-type: circle;
+}
